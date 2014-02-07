@@ -1,0 +1,86 @@
+body {
+	background-image:url('oceanwavesog.jpg');
+	font-family: Arial;
+}
+#linkBar{
+	width:150px;
+	height:500px;
+	float: left;
+}
+#content{
+	width:700px;
+	margin:20px auto 20px auto;
+	font-size: 14px;
+	height:500px;
+}
+#textBody{
+	border-color: black;
+	height: 200px;
+	width:600px;
+	margin:5px auto 5px auto;
+	background-color: white;
+}
+#content #dannyBrownPhoto{
+	display: block;
+	margin: auto;
+}
+
+#bioH2{
+	text-align: center;
+	padding: 10px 0px 10px 0px;
+	font-size: 22px;
+	border-bottom: 1px dotted gray;
+}
+
+#header{
+	width: 100%;
+	margin:20px auto 10px auto;
+}
+h1{
+	text-align: center;
+	color: white;
+	margin:20px auto 2px auto;
+	font-size: 40px;
+}
+ul{
+	margin: 20px auto 20px auto;
+	padding: 20px;
+}
+#bioUl{
+	margin:10px auto 10px auto;
+	padding: 5px 20px 5px 20px;
+	text-align: left;
+}
+.linkDiv a{
+	font-size: 35px;
+	text-decoration: none;
+}
+.linkDiv a:link{
+	color:white;
+}
+.linkDiv a:visited{
+	color:white;
+}
+.linkDiv a:hover{
+	color:black;
+}
+.linkDiv a:active{
+	color:#3366CC;
+}
+
+#header a{
+	font-size: 40px;
+	text-decoration: none;
+}
+#header a:link{
+	color:white;
+}
+#header a:visited{
+	color:white;
+}
+#header a:hover{
+	color:black;
+}
+#header a:active{
+	color:#3366CC;
+}
