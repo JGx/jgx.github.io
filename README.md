@@ -1,4 +1,0 @@
-jgx.github.io
-=============
-
-Website
